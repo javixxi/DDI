@@ -1,0 +1,22 @@
+{C:/Users/pronto all'uso/Desktop/disdig/p20/ejercicio1/modelsim/tb_contadorBCDmod94.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/pronto all'uso/Desktop/disdig/p20/ejercicio1/modelsim/tb_contadorBCDmod94.vhd}
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity tb_contadorBCDmod94
+-- Compiling architecture test of tb_contadorBCDmod94
+-- Loading entity contadorBCDmod94
+
+} {} {}} {C:/Users/pronto all'uso/Desktop/disdig/p20/ejercicio1/hdl/contadorBCDmod94.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/pronto all'uso/Desktop/disdig/p20/ejercicio1/hdl/contadorBCDmod94.vhd}
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity contadorBCDmod94
+-- Compiling architecture rtl of contadorBCDmod94
+
+} {} {}}

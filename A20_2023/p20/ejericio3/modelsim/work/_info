@@ -1,0 +1,97 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/pronto all'uso/Desktop/disdig/p20/ejercicio2_1/modelsim
+Esumadorbcd
+Z0 w1704807870
+Z1 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z5 dC:/Users/pronto all'uso/Desktop/disdig/p20/ejericio3/modelsim
+Z6 8C:/Users/pronto all'uso/Desktop/disdig/p20/ejericio3/hdl/SumadorBCD.vhd
+Z7 FC:/Users/pronto all'uso/Desktop/disdig/p20/ejericio3/hdl/SumadorBCD.vhd
+l0
+L9
+V1_zO?A16O5kggHmA2Nebo1
+!s100 Vg]NLJTe:VH1DndngKjAL0
+Z8 OV;C;10.4d;61
+32
+Z9 !s110 1704833213
+!i10b 1
+Z10 !s108 1704833213.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/pronto all'uso/Desktop/disdig/p20/ejericio3/hdl/SumadorBCD.vhd|
+Z12 !s107 C:/Users/pronto all'uso/Desktop/disdig/p20/ejericio3/hdl/SumadorBCD.vhd|
+!i113 1
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1
+Artl
+R1
+R2
+R3
+R4
+Z15 DEx4 work 10 sumadorbcd 0 22 1_zO?A16O5kggHmA2Nebo1
+l26
+L21
+V1h;9zn]o_PJhACgID:5I53
+!s100 8N4dK8gQUXd?b^GY?fZDd3
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Etb_sumadorbcd
+Z16 w1704836148
+R1
+R2
+R3
+R4
+R5
+Z17 8C:/Users/pronto all'uso/Desktop/disdig/p20/ejericio3/modelsim/tb_SumadorBCD.vhd
+Z18 FC:/Users/pronto all'uso/Desktop/disdig/p20/ejericio3/modelsim/tb_SumadorBCD.vhd
+l0
+L9
+V?V8P[@z?=lHdmle2;aLD:2
+!s100 YJ?HXljmHN0QGnZCIfPYV3
+R8
+32
+Z19 !s110 1704836151
+!i10b 1
+Z20 !s108 1704836151.000000
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/pronto all'uso/Desktop/disdig/p20/ejericio3/modelsim/tb_SumadorBCD.vhd|
+Z22 !s107 C:/Users/pronto all'uso/Desktop/disdig/p20/ejericio3/modelsim/tb_SumadorBCD.vhd|
+!i113 1
+R13
+R14
+Atest
+R15
+R1
+R2
+R3
+R4
+Z23 DEx4 work 13 tb_sumadorbcd 0 22 ?V8P[@z?=lHdmle2;aLD:2
+l22
+L13
+V`:mT2]gUe41Hnzi@MLB]70
+!s100 YB2jeB?hQ5FPb_GW4=Z3i0
+R8
+32
+R19
+!i10b 1
+R20
+R21
+R22
+!i113 1
+R13
+R14
