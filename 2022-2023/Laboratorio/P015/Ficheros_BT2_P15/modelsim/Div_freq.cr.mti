@@ -1,0 +1,30 @@
+C:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/P015/Ficheros_BT2_P15/hdl/divisor_2.vhd {0 {vcom -work work -2002 -explicit -stats=none C:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/P015/Ficheros_BT2_P15/hdl/divisor_2.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity divisor_2
+-- Compiling architecture rtl of divisor_2
+** Error: C:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/P015/Ficheros_BT2_P15/hdl/divisor_2.vhd(25): (vcom-1136) Unknown identifier "cnt_mod_4".
+
+** Error: C:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/P015/Ficheros_BT2_P15/hdl/divisor_2.vhd(25): Type error resolving infix expression "/=" as type std.STANDARD.BOOLEAN.
+** Error: C:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/P015/Ficheros_BT2_P15/hdl/divisor_2.vhd(26): near "=": (vcom-1576) expecting == or '+' or '-' or '&'.
+
+** Error: C:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/P015/Ficheros_BT2_P15/hdl/divisor_2.vhd(27): Illegal target for signal assignment.
+** Error: C:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/P015/Ficheros_BT2_P15/hdl/divisor_2.vhd(27): (vcom-1136) Unknown identifier "FDC".
+
+** Error: C:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/P015/Ficheros_BT2_P15/hdl/divisor_2.vhd(29): Illegal target for signal assignment.
+** Error: C:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/P015/Ficheros_BT2_P15/hdl/divisor_2.vhd(29): (vcom-1136) Unknown identifier "cnt_mod_4".
+
+** Error: C:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/P015/Ficheros_BT2_P15/hdl/divisor_2.vhd(30): Illegal target for signal assignment.
+** Error: C:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/P015/Ficheros_BT2_P15/hdl/divisor_2.vhd(30): (vcom-1136) Unknown identifier "FDC".
+
+** Error: C:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/P015/Ficheros_BT2_P15/hdl/divisor_2.vhd(43): Enumeration literal '0' is not of type ieee.std_logic_1164.STD_LOGIC_VECTOR.
+** Error: C:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/P015/Ficheros_BT2_P15/hdl/divisor_2.vhd(61): Signal "F_OUT_2_ENA" is type ieee.std_logic_1164.STD_LOGIC; expecting type std.STANDARD.BOOLEAN.
+** Error: C:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/P015/Ficheros_BT2_P15/hdl/divisor_2.vhd(61): near "is": (vcom-1576) expecting ';'.
+
+** Error: C:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/P015/Ficheros_BT2_P15/hdl/divisor_2.vhd(64): VHDL Compiler exiting
+
+} {10.0 11.0 12.0 14.0 15.0 17.0 18.0 20.0 21.0 23.0 24.0 27.0 28.0 29.0} {}}

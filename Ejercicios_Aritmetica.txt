@@ -1,0 +1,13 @@
+Ejercicio 1
+a.- Sumador
+b.- Sumador con entrada de acarreo
+c.- Restador
+d.- Suma con acarreo de salida
+e.- Senetencia concurrente de comparación mayor o igual
+f.- sentencia concurrente de comparación menor que
+g.- multiplitador por 8
+h.- multiplicacdor por 3
+i.- Cociente de division entre 2^6
+j.- (a*2)+(B/2)
+
+Ejercicio 2

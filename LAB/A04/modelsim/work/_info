@@ -1,0 +1,133 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/altera_lite/16.0
+Econt2b
+Z0 w1695658536
+Z1 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z5 dC:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A04/modelsim
+Z6 8C:\Users\Javier\Documents\Universidad\1_semestre\DD1\LAB\A04\hdl\cont2b.vhd
+Z7 FC:\Users\Javier\Documents\Universidad\1_semestre\DD1\LAB\A04\hdl\cont2b.vhd
+l0
+L6
+Va_g`PB?1gBk06`7o`z[9e2
+!s100 NLo=P:[i@390R=>i^f_NH1
+Z8 OV;C;10.4d;61
+32
+Z9 !s110 1695658544
+!i10b 1
+Z10 !s108 1695658544.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\Javier\Documents\Universidad\1_semestre\DD1\LAB\A04\hdl\cont2b.vhd|
+Z12 !s107 C:\Users\Javier\Documents\Universidad\1_semestre\DD1\LAB\A04\hdl\cont2b.vhd|
+!i113 1
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1
+Artl_asc
+R1
+R2
+R3
+R4
+Z15 DEx4 work 6 cont2b 0 22 a_g`PB?1gBk06`7o`z[9e2
+l53
+L52
+VP>VNF=1WY`R0lIU?RV?Pf0
+!s100 9LB5X1]M]Mjk6[TP8KNcn1
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Artl_desc
+R1
+R2
+R3
+R4
+R15
+l29
+L28
+V74LciFSiSbeiUOoXL>:lY0
+!s100 z7mkaibUN;IA?=lHL]Ac61
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Artl
+R1
+R2
+R3
+R4
+R15
+l16
+L15
+Z16 Ve4QdlJk;^;`n;ohhod_<31
+Z17 !s100 e6oO4UCZ7@D<5m1eXk=zG2
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Etb_cont2b
+Z18 w1695655953
+R3
+R4
+R5
+Z19 8C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A04/modelsim/tb_cont2b.vhd
+Z20 FC:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A04/modelsim/tb_cont2b.vhd
+l0
+L5
+V>8bEJJ@E8A`R;EVmJ78XP1
+!s100 624Pb^E0VoQ8A2;5XRIom0
+R8
+32
+Z21 !s110 1695656033
+!i10b 1
+Z22 !s108 1695656033.000000
+Z23 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A04/modelsim/tb_cont2b.vhd|
+Z24 !s107 C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A04/modelsim/tb_cont2b.vhd|
+!i113 1
+R13
+R14
+Atest
+DEx4 work 6 cont2b 0 22 c=DG422Y?@zJm^DA?lio73
+R3
+R4
+DEx4 work 9 tb_cont2b 0 22 >8bEJJ@E8A`R;EVmJ78XP1
+l14
+L9
+VS:3hfG]@?@cKR;^<:QHBW3
+!s100 HbB:z`99ETMfMGVfCNHSU0
+R8
+32
+R21
+!i10b 1
+R22
+R23
+R24
+!i113 1
+R13
+R14

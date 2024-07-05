@@ -1,0 +1,93 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/altera/16.0
+Econt2b
+Z0 w1664035471
+Z1 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z5 dC:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/A04/modelsim
+Z6 8C:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/A04/hdl/cont2b.vhd
+Z7 FC:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/A04/hdl/cont2b.vhd
+l0
+L12
+VRi<O7gL[zN]BWG:emX<Z53
+!s100 e_9klcMXfPRMVCkeSeA;z3
+Z8 OV;C;10.4d;61
+32
+Z9 !s110 1664035483
+!i10b 1
+Z10 !s108 1664035482.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/A04/hdl/cont2b.vhd|
+Z12 !s107 C:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/A04/hdl/cont2b.vhd|
+!i113 1
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1
+Artl
+R1
+R2
+R3
+R4
+Z15 DEx4 work 6 cont2b 0 22 Ri<O7gL[zN]BWG:emX<Z53
+l22
+L21
+V2B:ND]j24f:[1d`0TWeGn2
+!s100 CdD`Aa0K5S:>CFbn<<RnZ1
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Econt2b_tb
+Z16 w1474387984
+R3
+R4
+R5
+Z17 8C:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/A04/modelsim/cont2b_tb.vhd
+Z18 FC:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/A04/modelsim/cont2b_tb.vhd
+l0
+L10
+V_=difBB2d[dGX:co9A4Yh0
+!s100 I>n:1;m=g4^3kbVF]0jh=3
+R8
+32
+Z19 !s110 1664034778
+!i10b 1
+Z20 !s108 1664034777.000000
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/A04/modelsim/cont2b_tb.vhd|
+Z22 !s107 C:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/A04/modelsim/cont2b_tb.vhd|
+!i113 1
+R13
+R14
+Atest
+DEx4 work 6 cont2b 0 22 ?AdEY<1E251PQHknV_6XQ2
+R3
+R4
+DEx4 work 9 cont2b_tb 0 22 _=difBB2d[dGX:co9A4Yh0
+l20
+L13
+V[dN=<S@U;l>`o`;oNZK<W0
+!s100 2K_hmB[P]BnCg51Xgi9=<3
+R8
+32
+R19
+!i10b 1
+R20
+R21
+R22
+!i113 1
+R13
+R14

@@ -1,0 +1,12 @@
+PowerPlay Power Analyzer Status : Successful - Tue Oct 25 13:11:56 2022
+Quartus Prime Version : 16.0.0 Build 211 04/27/2016 SJ Lite Edition
+Revision Name : int_thunderbird
+Top-level Entity Name : int_thunderbird
+Family : MAX 10
+Device : 10M08SAU169C8G
+Power Models : Final
+Total Thermal Power Dissipation : 115.07 mW
+Core Dynamic Thermal Power Dissipation : 0.00 mW
+Core Static Thermal Power Dissipation : 110.63 mW
+I/O Thermal Power Dissipation : 4.44 mW
+Power Estimation Confidence : Low: user provided insufficient toggle rate data

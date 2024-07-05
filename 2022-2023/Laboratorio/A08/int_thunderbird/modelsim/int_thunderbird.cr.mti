@@ -1,0 +1,22 @@
+C:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/A08/int_thunderbird/test/tb_int_thunderbird.vhd {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\Javier\Documents\Universidad\1_semestre\DD1\Laboratorio\A08\int_thunderbird\test\tb_int_thunderbird.vhd}
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity tb_int_thunderbird
+-- Compiling architecture test of tb_int_thunderbird
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading entity int_thunderbird
+
+} {} {}} C:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/A08/int_thunderbird/hdl/int_thunderbird.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/A08/int_thunderbird/hdl/int_thunderbird.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity int_thunderbird
+-- Compiling architecture rtl of int_thunderbird
+
+} {} {}}

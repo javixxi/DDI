@@ -1,0 +1,28 @@
+--clausulas de visibilidad
+library ieee;
+use ieee.std_logic_1164.all
+
+--Definicion de la entidad
+entity decod3a8n is
+	port(	n_E: in std_logic_vector (1 downto 0);
+			n_S: buffer std_logic_vector (3 downto 0)
+		);
+end entity;
+
+architecture rtl for decod3a8n is
+begin
+	process(n_E)
+	begin
+		case E is
+			when n_E is "00" =>
+				n_S <= "0001";
+			when n_E is "01" =>
+				n_S <= "0010";
+			when n_E is "10" =>
+				n_S <= "0100";
+			when n_E is "11" =>
+				n_S <= "1010";
+		end case;
+	end process;
+end rtl;
+	

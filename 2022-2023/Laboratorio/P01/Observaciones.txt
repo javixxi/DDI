@@ -1,0 +1,6 @@
+1. Parece que para solucionar el tema de los comentarios ramdom, tenemos que No empezar escribiendo coentarios.
+
+2. Las Rutas para cualquier archivo que incluiremos en el programa no deberán tener caracteres raros (solo _ y letras Mayus y minus.
+
+3.	- Declaración de entidad: Principal, se compila primero.
+	- Cuarpo de arquitectura (modelo lógico de funcionamiento): secundaria, dependiente de la declaracion de entidad

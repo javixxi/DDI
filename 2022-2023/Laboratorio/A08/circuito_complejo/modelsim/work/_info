@@ -1,0 +1,97 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/A08/int_thunderbird/modelsim
+Esegundero
+Z0 w1666864963
+Z1 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z5 dC:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/A08/circuito_complejo/modelsim
+Z6 8C:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/A08/segundero/hdl/segundero.vhd
+Z7 FC:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/A08/segundero/hdl/segundero.vhd
+l0
+L5
+VJB91?P6<6ljOM[49=A;eN1
+!s100 gYPJT>g588Mk`5k1aR<6j3
+Z8 OV;C;10.4d;61
+32
+Z9 !s110 1666864971
+!i10b 1
+Z10 !s108 1666864971.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/A08/segundero/hdl/segundero.vhd|
+Z12 !s107 C:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/A08/segundero/hdl/segundero.vhd|
+!i113 1
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1
+Artl
+R1
+R2
+R3
+R4
+Z15 DEx4 work 9 segundero 0 22 JB91?P6<6ljOM[49=A;eN1
+l22
+L14
+VkRQng7`?:@a_Y8Hbg@D9N1
+!s100 ImFP:NkK;Mok<^6Q9^CE:3
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Etb_segundero
+Z16 w1666863031
+R1
+R2
+R3
+R4
+R5
+Z17 8C:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/A08/segundero/test/tb_segundero.vhd
+Z18 FC:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/A08/segundero/test/tb_segundero.vhd
+l0
+L5
+VcQ3Y?NbNFkLSAL:1RI?o]0
+!s100 GIA27FJ]4o[E51K?[RY=_1
+R8
+32
+Z19 !s110 1666864740
+!i10b 1
+Z20 !s108 1666864740.000000
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/A08/segundero/test/tb_segundero.vhd|
+Z22 !s107 C:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/A08/segundero/test/tb_segundero.vhd|
+!i113 1
+R13
+R14
+Atest
+R15
+R1
+R2
+R3
+R4
+DEx4 work 12 tb_segundero 0 22 cQ3Y?NbNFkLSAL:1RI?o]0
+l15
+L8
+VKTc;SlG?N4HdaL^1NAhh31
+!s100 F@G;fiH:WaXmJDHEfeofV3
+R8
+32
+R19
+!i10b 1
+R20
+R21
+R22
+!i113 1
+R13
+R14

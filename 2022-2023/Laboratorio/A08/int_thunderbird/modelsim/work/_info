@@ -1,0 +1,95 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/A08/int_thunderbird/modelsim
+Eint_thunderbird
+Z1 w1666696284
+Z2 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z3 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z4 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z5 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z6 8C:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/A08/int_thunderbird/hdl/int_thunderbird.vhd
+Z7 FC:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/A08/int_thunderbird/hdl/int_thunderbird.vhd
+l0
+L9
+Vl;B]Md<kg@a3JI?Bcmj>k3
+!s100 >RhV00Zzk;Okeb7<;I]Ca0
+Z8 OV;C;10.4d;61
+32
+Z9 !s110 1666696289
+!i10b 1
+Z10 !s108 1666696289.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/A08/int_thunderbird/hdl/int_thunderbird.vhd|
+Z12 !s107 C:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/A08/int_thunderbird/hdl/int_thunderbird.vhd|
+!i113 1
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1
+Artl
+R2
+R3
+R4
+R5
+Z15 DEx4 work 15 int_thunderbird 0 22 l;B]Md<kg@a3JI?Bcmj>k3
+l35
+L27
+Vi8YVk=Jbc7]jTR`jHK<gb3
+!s100 ;S`@E?]78NA>0`F<GWZU12
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Etb_int_thunderbird
+Z16 w1666696116
+R4
+R5
+R0
+Z17 8C:\Users\Javier\Documents\Universidad\1_semestre\DD1\Laboratorio\A08\int_thunderbird\test\tb_int_thunderbird.vhd
+Z18 FC:\Users\Javier\Documents\Universidad\1_semestre\DD1\Laboratorio\A08\int_thunderbird\test\tb_int_thunderbird.vhd
+l0
+L7
+VQ9H7XPEF0K`zSS`cINMj;0
+!s100 CLYM@0XRoLCnA?0bCO<[N3
+R8
+32
+Z19 !s110 1666696118
+!i10b 1
+Z20 !s108 1666696118.000000
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\Javier\Documents\Universidad\1_semestre\DD1\Laboratorio\A08\int_thunderbird\test\tb_int_thunderbird.vhd|
+Z22 !s107 C:\Users\Javier\Documents\Universidad\1_semestre\DD1\Laboratorio\A08\int_thunderbird\test\tb_int_thunderbird.vhd|
+!i113 1
+R13
+R14
+Atest
+R2
+R3
+R15
+R4
+R5
+DEx4 work 18 tb_int_thunderbird 0 22 Q9H7XPEF0K`zSS`cINMj;0
+l22
+L10
+VzEo?]gV3eh6C?;M7al:Ka0
+!s100 jUXQA:Oi1];BH8?B?IBlS0
+R8
+32
+R19
+!i10b 1
+R20
+R21
+R22
+!i113 1
+R13
+R14

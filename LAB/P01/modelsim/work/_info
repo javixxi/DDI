@@ -1,0 +1,110 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/altera_lite/16.0
+Edecodbcd7seg
+Z0 w1695145008
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dC:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P01/modelsim
+Z4 8C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P01/hdl/decodBCD7seg.vhd
+Z5 FC:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P01/hdl/decodBCD7seg.vhd
+l0
+L8
+V[@F4F<gY_kSMWWFie@B=51
+!s100 koPhWVOXY_[UBloZbT8zW3
+Z6 OV;C;10.4d;61
+32
+Z7 !s110 1695145016
+!i10b 1
+Z8 !s108 1695145016.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P01/hdl/decodBCD7seg.vhd|
+Z10 !s107 C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P01/hdl/decodBCD7seg.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1
+Artl
+R1
+R2
+Z13 DEx4 work 12 decodbcd7seg 0 22 [@F4F<gY_kSMWWFie@B=51
+l19
+L18
+VTcNGN<KOz`3IBGmH^NZX:3
+!s100 m_G^MQGWW>US>k=BekH0[2
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Etb_decodbcd7seg
+Z14 w1695147477
+R1
+R2
+R3
+Z15 8C:\Users\Javier\Documents\Universidad\1_semestre\DD1\LAB\P01\modelsim\tb_decodBCD7seg.vhd
+Z16 FC:\Users\Javier\Documents\Universidad\1_semestre\DD1\LAB\P01\modelsim\tb_decodBCD7seg.vhd
+l0
+L11
+V@D:fg3`O4Y>Ch@6oB>9j[0
+!s100 6;CecLKSLM4U[61f<80DO3
+R6
+32
+Z17 !s110 1695147480
+!i10b 1
+Z18 !s108 1695147480.000000
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\Javier\Documents\Universidad\1_semestre\DD1\LAB\P01\modelsim\tb_decodBCD7seg.vhd|
+Z20 !s107 C:\Users\Javier\Documents\Universidad\1_semestre\DD1\LAB\P01\modelsim\tb_decodBCD7seg.vhd|
+!i113 1
+R11
+R12
+Atest
+R13
+R1
+R2
+Z21 DEx4 work 15 tb_decodbcd7seg 0 22 @D:fg3`O4Y>Ch@6oB>9j[0
+l17
+L14
+V_=[`@lD:7MO8imH9QFeME2
+!s100 `:C?Hdg?RHXo0T^9PGOeQ1
+R6
+32
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 1
+R11
+R12
+Etbc
+w1695145308
+R1
+R2
+R3
+8C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P01/modelsim/tb_decodBCD7seg.vhd
+FC:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P01/modelsim/tb_decodBCD7seg.vhd
+l0
+L11
+V^`RAP7mPKQiNi3CPVGQh>0
+!s100 L?G_Cd[3z4B96AR;<Xn[R0
+R6
+32
+!s110 1695145387
+!i10b 1
+!s108 1695145387.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P01/modelsim/tb_decodBCD7seg.vhd|
+!s107 C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P01/modelsim/tb_decodBCD7seg.vhd|
+!i113 1
+R11
+R12

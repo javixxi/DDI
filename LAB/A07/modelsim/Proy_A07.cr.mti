@@ -1,0 +1,102 @@
+C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A07/hdl/comp_unos_ceros.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A07/hdl/comp_unos_ceros.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity comp_unos_ceros
+-- Compiling architecture rtl of comp_unos_ceros
+
+} {} {}} C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A07/hdl/cont_desc.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A07/hdl/cont_desc.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity cont_desc
+-- Compiling architecture rtl of cont_desc
+
+} {} {}} C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A07/hdl/contador_unos.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A07/hdl/contador_unos.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity contador_unos
+-- Compiling architecture rtl of contador_unos
+
+} {} {}} C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A07/modelsim/tb_valor_absoluto_c2.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A07/modelsim/tb_valor_absoluto_c2.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity tb_valor_absoluto_c2
+-- Compiling architecture test of tb_valor_absoluto_c2
+-- Loading entity valor_absoluto_c2
+
+} {} {}} C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A07/hdl/valor_absoluto_c2.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A07/hdl/valor_absoluto_c2.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity valor_absoluto_c2
+-- Compiling architecture rtl of valor_absoluto_c2
+
+} {} {}} C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A07/modelsim/tb_monoestable.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A07/modelsim/tb_monoestable.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity tb_monoestable
+-- Compiling architecture test of tb_monoestable
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading entity monoestable
+
+} {} {}} C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A07/hdl/monoestable.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A07/hdl/monoestable.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity monoestable
+-- Compiling architecture rtl of monoestable
+
+} {} {}} C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A07/modelsim/tb_comp_unos_ceros.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A07/modelsim/tb_comp_unos_ceros.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity tb_comp_unos_ceros
+-- Compiling architecture test of tb_comp_unos_ceros
+-- Loading entity comp_unos_ceros
+
+} {} {}} C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A07/modelsim/tb_cont_desc.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A07/modelsim/tb_cont_desc.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity tb_cont_desc
+-- Compiling architecture test of tb_cont_desc
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading entity cont_desc
+
+} {} {}} C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A07/modelsim/tb_contador_unos.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A07/modelsim/tb_contador_unos.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity tb_contador_unos
+-- Compiling architecture test of tb_contador_unos
+-- Loading entity contador_unos
+
+} {} {}}

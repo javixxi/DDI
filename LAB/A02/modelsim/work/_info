@@ -1,0 +1,89 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P01/modelsim
+Edecod3a8n
+Z0 w1695154127
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dC:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A02/modelsim
+Z4 8C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A02/hdl/decod3a8n.vhd
+Z5 FC:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A02/hdl/decod3a8n.vhd
+l0
+L6
+V9W=3[MM8GVT9@XilV82Gn0
+!s100 mcHOGMDeajfT3dVBIlPED2
+Z6 OV;C;10.4d;61
+32
+Z7 !s110 1695154216
+!i10b 1
+Z8 !s108 1695154216.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A02/hdl/decod3a8n.vhd|
+Z10 !s107 C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A02/hdl/decod3a8n.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1
+Artl
+R1
+R2
+Z13 DEx4 work 9 decod3a8n 0 22 9W=3[MM8GVT9@XilV82Gn0
+l13
+L12
+V867TQjliN:oY5`SEhh_2G1
+!s100 GoXVY9CjRCil<JAmXi^_k3
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Etb_decod3a8n
+Z14 w1695155677
+R1
+R2
+R3
+Z15 8C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A02/modelsim/tb_decod3a8n.vhd
+Z16 FC:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A02/modelsim/tb_decod3a8n.vhd
+l0
+L6
+VaB8hToP6efGMFM3PcG6TI3
+!s100 M]NHTNCN9]1E@>8O4UVi73
+R6
+32
+Z17 !s110 1695155679
+!i10b 1
+Z18 !s108 1695155679.000000
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A02/modelsim/tb_decod3a8n.vhd|
+Z20 !s107 C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A02/modelsim/tb_decod3a8n.vhd|
+!i113 1
+R11
+R12
+Atest
+R13
+R1
+R2
+DEx4 work 12 tb_decod3a8n 0 22 aB8hToP6efGMFM3PcG6TI3
+l14
+L10
+Vn4:;RP]nHi^i;SidK22BY0
+!s100 <=N0JHBM8iTFD^8TiW]U91
+R6
+32
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 1
+R11
+R12

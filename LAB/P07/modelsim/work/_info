@@ -1,0 +1,95 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P06/modelsim
+Econt_bcd_7seg_habcp
+Z0 w1696961585
+Z1 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z5 dC:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P07/modelsim
+Z6 8C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P07/hdl/cont_bcd_7seg_habcp.vhd
+Z7 FC:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P07/hdl/cont_bcd_7seg_habcp.vhd
+l0
+L9
+V:C8Cd@0KmUQ[Zz5P=;1LE1
+!s100 2WDZz]25;M:ZjMj4l9SW51
+Z8 OV;C;10.4d;61
+32
+Z9 !s110 1696961592
+!i10b 1
+Z10 !s108 1696961592.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P07/hdl/cont_bcd_7seg_habcp.vhd|
+Z12 !s107 C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P07/hdl/cont_bcd_7seg_habcp.vhd|
+!i113 1
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1
+Artl
+R1
+R2
+R3
+R4
+Z15 DEx4 work 19 cont_bcd_7seg_habcp 0 22 :C8Cd@0KmUQ[Zz5P=;1LE1
+l24
+L18
+VX8zh15mdEQ5WzhSDN4^1V0
+!s100 bbz8IU6KNAzJnBA4>hT4[0
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Etest_cont_bcd_7seg_habcp
+Z16 w1696960314
+R3
+R4
+R5
+Z17 8C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P07/modelsim/test_cont_bcd_7seg_habcp.vhd
+Z18 FC:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P07/modelsim/test_cont_bcd_7seg_habcp.vhd
+l0
+L8
+V1DVmBLEJ18JKk[Rd0RMRk1
+!s100 ]T2eXUNMh>F5z`Q?FXQ;<0
+R8
+32
+Z19 !s110 1696960334
+!i10b 1
+Z20 !s108 1696960334.000000
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P07/modelsim/test_cont_bcd_7seg_habcp.vhd|
+Z22 !s107 C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P07/modelsim/test_cont_bcd_7seg_habcp.vhd|
+!i113 1
+R13
+R14
+Atest
+R1
+R2
+R15
+R3
+R4
+DEx4 work 24 test_cont_bcd_7seg_habcp 0 22 1DVmBLEJ18JKk[Rd0RMRk1
+l17
+L11
+VVD<Qo;S5oPWW=0Un`ko]S3
+!s100 3IQ>Cek894?61RN0^5DWM0
+R8
+32
+R19
+!i10b 1
+R20
+R21
+R22
+!i113 1
+R13
+R14

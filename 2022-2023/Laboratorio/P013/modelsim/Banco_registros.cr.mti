@@ -1,0 +1,25 @@
+C:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/P013/modelsim/banco_16reg_32bits.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/P013/modelsim/banco_16reg_32bits.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity banco_16reg_32bits
+-- Compiling architecture rtl of banco_16reg_32bits
+
+} {} {}} C:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/P013/modelsim/Selector.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/P013/modelsim/Selector.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity selector16x32bits
+-- Compiling architecture rtl of selector16x32bits
+
+} {} {}} C:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/P013/modelsim/Decodificador.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/P013/modelsim/Decodificador.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity decod_4_a_16
+-- Compiling architecture rtl of decod_4_a_16
+
+} {} {}}

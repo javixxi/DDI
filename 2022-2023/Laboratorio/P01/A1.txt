@@ -1,0 +1,5 @@
+P1:	Sobre los retos que plantea la predicción del consumo de potencia en las FPGAs
+P2:	9
+P3:	MAX, Cyclone, Arria, Stratix y Agilex
+P4:	Max 10, 15.48 USD
+P5:	La familia tiene 7 miembros: 10M02, 10M04, 10M08, 10M16, 10M25, 10M40 y 10M50

@@ -1,0 +1,259 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A07/modelsim
+Ecircuito_complejo
+Z0 w1698257584
+Z1 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z5 dC:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A08/modelsim
+Z6 8C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A08/hdl/circuito_complejo.vhd
+Z7 FC:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A08/hdl/circuito_complejo.vhd
+l0
+L6
+Vz6m57ahCQXOXK^b3YeNG81
+!s100 1mW_<S94;S1>>WGhmKX=83
+Z8 OV;C;10.4d;61
+32
+Z9 !s110 1698257592
+!i10b 1
+Z10 !s108 1698257592.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A08/hdl/circuito_complejo.vhd|
+Z12 !s107 C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A08/hdl/circuito_complejo.vhd|
+!i113 1
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1
+Artl
+R1
+R2
+R3
+R4
+Z15 DEx4 work 17 circuito_complejo 0 22 z6m57ahCQXOXK^b3YeNG81
+l41
+L15
+V9GVV?MOR0a?az=>c9B4i53
+!s100 1WjEEm^85YXh4FZ7=[AH=0
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Ecircuito_complejo_tb
+Z16 w1698256839
+R3
+R4
+R5
+Z17 8C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A08/modelsim/circuito_complejo_tb.vhd
+Z18 FC:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A08/modelsim/circuito_complejo_tb.vhd
+l0
+L5
+VD8KUPma[04FhJXJli2K1Q2
+!s100 NSi6SReE53Q3LgWHJJH411
+R8
+32
+Z19 !s110 1698257363
+!i10b 1
+Z20 !s108 1698257363.000000
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A08/modelsim/circuito_complejo_tb.vhd|
+Z22 !s107 C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A08/modelsim/circuito_complejo_tb.vhd|
+!i113 1
+R13
+R14
+Atest
+R1
+R2
+R15
+R3
+R4
+DEx4 work 20 circuito_complejo_tb 0 22 D8KUPma[04FhJXJli2K1Q2
+l15
+L9
+VIhz9^41NPkj0IX0id8VDW2
+!s100 _51R0BGCOjU:kHh[;iLAR2
+R8
+32
+R19
+!i10b 1
+R20
+R21
+R22
+!i113 1
+R13
+R14
+Eint_thunderbird
+Z23 w1697887178
+R3
+R4
+R5
+Z24 8C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A08/hdl/int_thunderbird.vhd
+Z25 FC:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A08/hdl/int_thunderbird.vhd
+l0
+L5
+V^f4ON=nZ1111C2HTJ4>7d1
+!s100 2l>Um[Q<kDOBbj8Y?@zZh2
+R8
+32
+Z26 !s110 1697887185
+!i10b 1
+Z27 !s108 1697887185.000000
+Z28 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A08/hdl/int_thunderbird.vhd|
+Z29 !s107 C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A08/hdl/int_thunderbird.vhd|
+!i113 1
+R13
+R14
+Artl
+R3
+R4
+Z30 DEx4 work 15 int_thunderbird 0 22 ^f4ON=nZ1111C2HTJ4>7d1
+l18
+L14
+VAi>L0JgDoadGn1>nf5S>T2
+!s100 Wdd=@U^U8m]1DcgZOR;G61
+R8
+32
+R26
+!i10b 1
+R27
+R28
+R29
+!i113 1
+R13
+R14
+Eint_thunderbird_tb
+Z31 w1697905038
+R3
+R4
+R5
+Z32 8C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A08/modelsim/int_thunderbird_tb.vhd
+Z33 FC:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A08/modelsim/int_thunderbird_tb.vhd
+l0
+L5
+V^YhmgL8YNe0DIM2M7263C1
+!s100 Z[f17MAJ[DNmAFhC:Pgjh0
+R8
+32
+Z34 !s110 1697905041
+!i10b 1
+Z35 !s108 1697905041.000000
+Z36 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A08/modelsim/int_thunderbird_tb.vhd|
+Z37 !s107 C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A08/modelsim/int_thunderbird_tb.vhd|
+!i113 1
+R13
+R14
+Atest
+R30
+R3
+R4
+DEx4 work 18 int_thunderbird_tb 0 22 ^YhmgL8YNe0DIM2M7263C1
+l15
+L9
+VBjUed[^PUZA5WYi<jhBmz2
+!s100 1Tb]EkN?1L;3PkYecG^lb3
+R8
+32
+R34
+!i10b 1
+R35
+R36
+R37
+!i113 1
+R13
+R14
+Esegundero
+Z38 w1698352739
+R1
+R2
+R3
+R4
+R5
+Z39 8C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A08/hdl/segundero.vhd
+Z40 FC:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A08/hdl/segundero.vhd
+l0
+L5
+VJB91?P6<6ljOM[49=A;eN1
+!s100 gYPJT>g588Mk`5k1aR<6j3
+R8
+32
+Z41 !s110 1698352744
+!i10b 1
+Z42 !s108 1698352744.000000
+Z43 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A08/hdl/segundero.vhd|
+Z44 !s107 C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A08/hdl/segundero.vhd|
+!i113 1
+R13
+R14
+Artl
+R1
+R2
+R3
+R4
+Z45 DEx4 work 9 segundero 0 22 JB91?P6<6ljOM[49=A;eN1
+l22
+L14
+VIK8SSNC2]Y[]ZYdXD:LBS0
+!s100 >go72bOeaDDFaDDnVlT@C2
+R8
+32
+R41
+!i10b 1
+R42
+R43
+R44
+!i113 1
+R13
+R14
+Esegundero_tb
+Z46 w1698352755
+R3
+R4
+R5
+Z47 8C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A08/modelsim/segundero_tb.vhd
+Z48 FC:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A08/modelsim/segundero_tb.vhd
+l0
+L5
+VHX_<hLDzcH:7WcQz8?j7N2
+!s100 ^:X^VhC8^?nCSW0_Xk5673
+R8
+32
+Z49 !s110 1698352770
+!i10b 1
+Z50 !s108 1698352770.000000
+Z51 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A08/modelsim/segundero_tb.vhd|
+Z52 !s107 C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A08/modelsim/segundero_tb.vhd|
+!i113 1
+R13
+R14
+Atest
+R1
+R2
+R45
+R3
+R4
+Z53 DEx4 work 12 segundero_tb 0 22 HX_<hLDzcH:7WcQz8?j7N2
+l16
+L9
+V>9WGfo<QRoGYIeKIZ8=gV2
+!s100 4z]kg1_b<<:`VzE>DdGhm3
+R8
+32
+R49
+!i10b 1
+R50
+R51
+R52
+!i113 1
+R13
+R14

@@ -1,0 +1,89 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A02/modelsim
+Ereg16b_ena_rst
+Z0 w1695422002
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dC:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P03/modelsim
+Z4 8C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P03/hdl/reg16b_ena_rst.vhd
+Z5 FC:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P03/hdl/reg16b_ena_rst.vhd
+l0
+L5
+V=iSC6Jdedc?=db`^g>mQ83
+!s100 Rb_A<=o`Zo5llmEN`ijhh0
+Z6 OV;C;10.4d;61
+32
+Z7 !s110 1695422043
+!i10b 1
+Z8 !s108 1695422043.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P03/hdl/reg16b_ena_rst.vhd|
+Z10 !s107 C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P03/hdl/reg16b_ena_rst.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1
+Artl
+R1
+R2
+Z13 DEx4 work 14 reg16b_ena_rst 0 22 =iSC6Jdedc?=db`^g>mQ83
+l17
+L16
+V2dTaGI>CVEQGNMcTIgnSB0
+!s100 lDzNmSEgXlode2znbPFHn0
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Etb_reg16b_ena_rst
+Z14 w1695457127
+R1
+R2
+R3
+Z15 8C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P03/modelsim/tb_reg16b_ena_rst.vhd
+Z16 FC:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P03/modelsim/tb_reg16b_ena_rst.vhd
+l0
+L5
+V=LDgB>MECa5SeF6=n6FhX1
+!s100 H97>fmEAM31Z7>bc7cR[Q0
+R6
+32
+Z17 !s110 1695457135
+!i10b 1
+Z18 !s108 1695457135.000000
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P03/modelsim/tb_reg16b_ena_rst.vhd|
+Z20 !s107 C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P03/modelsim/tb_reg16b_ena_rst.vhd|
+!i113 1
+R11
+R12
+Atest
+R13
+R1
+R2
+Z21 DEx4 work 17 tb_reg16b_ena_rst 0 22 =LDgB>MECa5SeF6=n6FhX1
+l18
+L9
+Z22 VC9AhJ42^B=V_YFT4cc>Jl1
+Z23 !s100 5_Z;D^`[Rk<AR4<hQo5RC0
+R6
+32
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 1
+R11
+R12

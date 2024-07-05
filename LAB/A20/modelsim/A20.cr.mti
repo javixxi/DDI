@@ -1,0 +1,43 @@
+C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A20/modelsim/contador_programable_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A20/modelsim/contador_programable_tb.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity contador_programable_tb
+-- Compiling architecture test of contador_programable_tb
+-- Loading entity contador_programable
+
+} {} {}} C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A20/hdl/contador_programable.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A20/hdl/contador_programable.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity contador_programable
+-- Compiling architecture rtl of contador_programable
+
+} {} {}} C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A20/modelsim/contadorBCD_2_digitos_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A20/modelsim/contadorBCD_2_digitos_tb.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity contadorBCD_2_digitos_tb
+-- Compiling architecture test of contadorBCD_2_digitos_tb
+-- Loading entity contadorBCD_2_digitos
+
+} {} {}} C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A20/hdl/contadorBCD_2_digitos.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A20/hdl/contadorBCD_2_digitos.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity contadorBCD_2_digitos
+-- Compiling architecture rtl of contadorBCD_2_digitos
+
+} {} {}}

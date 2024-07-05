@@ -1,0 +1,89 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/P02/modelsim
+Edecodbcd7seg
+Z1 w1663315734
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z4 8C:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/P02/hdl/decodBCD7seg.vhd
+Z5 FC:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/P02/hdl/decodBCD7seg.vhd
+l0
+L11
+V1e7GW`E41iUa6IRI6Thed1
+!s100 09>jWQ@:a;Bzl1G=DTHIl1
+Z6 OV;C;10.4d;61
+32
+Z7 !s110 1663666951
+!i10b 1
+Z8 !s108 1663666951.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/P02/hdl/decodBCD7seg.vhd|
+Z10 !s107 C:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/P02/hdl/decodBCD7seg.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1
+Artl
+R2
+R3
+Z13 DEx4 work 12 decodbcd7seg 0 22 1e7GW`E41iUa6IRI6Thed1
+l21
+L20
+V82ghhfcg2>J05e9TQGkI81
+!s100 K5I44nA[4jR<<l1TVf5a^1
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Etb_decodbcd7seg
+Z14 w1663667002
+R2
+R3
+R0
+Z15 8C:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/P02/modelsim/tb_decodBCD7seg.vhd
+Z16 FC:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/P02/modelsim/tb_decodBCD7seg.vhd
+l0
+L12
+V@LaYoRfT9O<0d2bNzoHk;2
+!s100 ei`i45N7:Enzo@7z7Tz>=0
+R6
+32
+Z17 !s110 1663667007
+!i10b 1
+Z18 !s108 1663667007.000000
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/P02/modelsim/tb_decodBCD7seg.vhd|
+Z20 !s107 C:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/P02/modelsim/tb_decodBCD7seg.vhd|
+!i113 1
+R11
+R12
+Atest
+R13
+R2
+R3
+DEx4 work 15 tb_decodbcd7seg 0 22 @LaYoRfT9O<0d2bNzoHk;2
+l18
+L15
+VfBK2bd@S_Wi6hRzh0JLmC2
+!s100 PI_E^2R>XAfESOhB^KQ5Q3
+R6
+32
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 1
+R11
+R12

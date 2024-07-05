@@ -1,0 +1,476 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P07/modelsim
+Ecomp_unos_ceros
+Z0 w1697208640
+Z1 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z5 dC:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A07/modelsim
+Z6 8C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A07/hdl/comp_unos_ceros.vhd
+Z7 FC:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A07/hdl/comp_unos_ceros.vhd
+l0
+L6
+V6gl@hA]]fiBI9LS::?`nH0
+!s100 J59jDD=O8o^:2@KWlhB792
+Z8 OV;C;10.4d;61
+32
+Z9 !s110 1697208655
+!i10b 1
+Z10 !s108 1697208655.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A07/hdl/comp_unos_ceros.vhd|
+Z12 !s107 C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A07/hdl/comp_unos_ceros.vhd|
+!i113 1
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1
+Artl
+R1
+R2
+R3
+R4
+Z15 DEx4 work 15 comp_unos_ceros 0 22 6gl@hA]]fiBI9LS::?`nH0
+l15
+L13
+V9eQ:1ogfhdBl9fBbVd>4e0
+!s100 ^`ZSJ3Ib^jJXlVGno]]713
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Econt_desc
+Z16 w1697223643
+R1
+R2
+R3
+R4
+R5
+Z17 8C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A07/hdl/cont_desc.vhd
+Z18 FC:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A07/hdl/cont_desc.vhd
+l0
+L6
+VlF2V0F4=Zk0na?GRinL3e2
+!s100 VjLVJ1UZ]S^RXO>gSR0L`2
+R8
+32
+Z19 !s110 1697223652
+!i10b 1
+Z20 !s108 1697223652.000000
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A07/hdl/cont_desc.vhd|
+Z22 !s107 C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A07/hdl/cont_desc.vhd|
+!i113 1
+R13
+R14
+Artl
+R1
+R2
+R3
+R4
+Z23 DEx4 work 9 cont_desc 0 22 lF2V0F4=Zk0na?GRinL3e2
+l15
+L14
+V5YRKSk^TXQ3>I76i^;0dW1
+!s100 GmhYhCmV0[DnJ?On>o=JZ3
+R8
+32
+R19
+!i10b 1
+R20
+R21
+R22
+!i113 1
+R13
+R14
+Econtador_unos
+Z24 w1697471482
+R3
+R4
+R5
+Z25 8C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A07/hdl/contador_unos.vhd
+Z26 FC:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A07/hdl/contador_unos.vhd
+l0
+L5
+VgaAeLPUXYg08Zn:ZmFP?n1
+!s100 [z::I@bWHRLRY0FDCO;lh3
+R8
+32
+Z27 !s110 1697471489
+!i10b 1
+Z28 !s108 1697471489.000000
+Z29 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A07/hdl/contador_unos.vhd|
+Z30 !s107 C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A07/hdl/contador_unos.vhd|
+!i113 1
+R13
+R14
+Artl
+R3
+R4
+Z31 DEx4 work 13 contador_unos 0 22 gaAeLPUXYg08Zn:ZmFP?n1
+l16
+L13
+VOAnUzhGJeGUho;47TR[[:2
+!s100 4Y>cKbc]_2eAOOz[[]I@02
+R8
+32
+R27
+!i10b 1
+R28
+R29
+R30
+!i113 1
+R13
+R14
+Emonoestable
+Z32 w1697874105
+R1
+R2
+R3
+R4
+R5
+Z33 8C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A07/hdl/monoestable.vhd
+Z34 FC:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A07/hdl/monoestable.vhd
+l0
+L6
+V=f`RQliNMXg]4hDQl^93D2
+!s100 d==4oS]VJA1YL`O8jl0MN0
+R8
+32
+Z35 !s110 1697886553
+!i10b 1
+Z36 !s108 1697886553.000000
+Z37 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A07/hdl/monoestable.vhd|
+Z38 !s107 C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A07/hdl/monoestable.vhd|
+!i113 1
+R13
+R14
+Artl
+R1
+R2
+R3
+R4
+Z39 DEx4 work 11 monoestable 0 22 =f`RQliNMXg]4hDQl^93D2
+l22
+L14
+VzYF;:<d[AhJB5LmcYYY`60
+!s100 `m70?MMWS8gJgBjCM;P<`3
+R8
+32
+R35
+!i10b 1
+R36
+R37
+R38
+!i113 1
+R13
+R14
+Emonoestable_conformador
+Z40 w1697651808
+R1
+R2
+R3
+R4
+R5
+R33
+R34
+l0
+L6
+VZ6A@oV>b]z`PclTPWzc>K0
+!s100 Z_8mS1]jhihKIkVD;UT4[3
+R8
+32
+Z41 !s110 1697651817
+!i10b 1
+Z42 !s108 1697651817.000000
+R37
+R38
+!i113 1
+R13
+R14
+Artl
+R1
+R2
+R3
+R4
+DEx4 work 23 monoestable_conformador 0 22 Z6A@oV>b]z`PclTPWzc>K0
+l22
+L14
+V;;HLYbl>k3FAAzk9f>HdN1
+!s100 Q0^1>mDD@V7=U@7XNQQ^83
+R8
+32
+R41
+!i10b 1
+R42
+R37
+R38
+!i113 1
+R13
+R14
+Etb_comp_unos_ceros
+Z43 w1697209295
+R1
+R2
+R3
+R4
+R5
+Z44 8C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A07/modelsim/tb_valor_absoluto_c2.vhd
+Z45 FC:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A07/modelsim/tb_valor_absoluto_c2.vhd
+l0
+L6
+V9mbWnIeOUfZWLd:R@DJf60
+!s100 Xnc6XLT<nV<0kLQaacZ^33
+R8
+32
+Z46 !s110 1697209328
+!i10b 1
+Z47 !s108 1697209328.000000
+Z48 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A07/modelsim/tb_valor_absoluto_c2.vhd|
+Z49 !s107 C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A07/modelsim/tb_valor_absoluto_c2.vhd|
+!i113 1
+R13
+R14
+Atest
+R15
+R1
+R2
+R3
+R4
+DEx4 work 18 tb_comp_unos_ceros 0 22 9mbWnIeOUfZWLd:R@DJf60
+l13
+L10
+Vm9=>4lgOTiX3NMfc]4H[P0
+!s100 AO1gj@FIL5jEEnjiFP4nj3
+R8
+32
+R46
+!i10b 1
+R47
+R48
+R49
+!i113 1
+R13
+R14
+Etb_cont_desc
+Z50 w1697223707
+R3
+R4
+R5
+Z51 8C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A07/modelsim/tb_cont_desc.vhd
+Z52 FC:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A07/modelsim/tb_cont_desc.vhd
+l0
+L5
+VcXibAAT7UN=j8VQT4FdAc2
+!s100 g6`zVBZ<CfBV73D`8nP4X1
+R8
+32
+Z53 !s110 1697470788
+!i10b 1
+Z54 !s108 1697470788.000000
+Z55 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A07/modelsim/tb_cont_desc.vhd|
+Z56 !s107 C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A07/modelsim/tb_cont_desc.vhd|
+!i113 1
+R13
+R14
+Atest
+R1
+R2
+R23
+R3
+R4
+DEx4 work 12 tb_cont_desc 0 22 cXibAAT7UN=j8VQT4FdAc2
+l14
+L9
+VFid8@D>E?X=fcTY_ja<h13
+!s100 TG1ObJG?@lX:MAhE1KNf_1
+R8
+32
+R53
+!i10b 1
+R54
+R55
+R56
+!i113 1
+R13
+R14
+Etb_contador_unos
+Z57 w1697470861
+R3
+R4
+R5
+Z58 8C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A07/modelsim/tb_contador_unos.vhd
+Z59 FC:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A07/modelsim/tb_contador_unos.vhd
+l0
+L5
+VNBCYba2h<mHmJekRfe0<^3
+!s100 eT5z^=aO;C_>fF5D=R[^^0
+R8
+32
+Z60 !s110 1697470866
+!i10b 1
+Z61 !s108 1697470866.000000
+Z62 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A07/modelsim/tb_contador_unos.vhd|
+Z63 !s107 C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A07/modelsim/tb_contador_unos.vhd|
+!i113 1
+R13
+R14
+Atest
+R31
+R3
+R4
+DEx4 work 16 tb_contador_unos 0 22 NBCYba2h<mHmJekRfe0<^3
+l14
+L9
+VLSTNz^_?87<fkKeoFg8:D0
+!s100 X=Ug9Z5<ll[>B[Wbg?=n>1
+R8
+32
+R60
+!i10b 1
+R61
+R62
+R63
+!i113 1
+R13
+R14
+Etb_monoestable
+Z64 w1697652213
+R3
+R4
+R5
+Z65 8C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A07/modelsim/tb_monoestable.vhd
+Z66 FC:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A07/modelsim/tb_monoestable.vhd
+l0
+L5
+VBlK[7ib?9Bdn01UlJ5nUX0
+!s100 cQW`H5HBF[o;89Y6o3ok12
+R8
+32
+Z67 !s110 1697652218
+!i10b 1
+Z68 !s108 1697652218.000000
+Z69 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A07/modelsim/tb_monoestable.vhd|
+Z70 !s107 C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A07/modelsim/tb_monoestable.vhd|
+!i113 1
+R13
+R14
+Atest
+R1
+R2
+R39
+R3
+R4
+DEx4 work 14 tb_monoestable 0 22 BlK[7ib?9Bdn01UlJ5nUX0
+l15
+L9
+VAmGT5VNZf>Zmik2cm9Ic93
+!s100 N1G7WjEgDiDB7d[SlmPf;0
+R8
+32
+R67
+!i10b 1
+R68
+R69
+R70
+!i113 1
+R13
+R14
+Etb_valor_absoluto_c2
+Z71 w1697210189
+R1
+R2
+R3
+R4
+R5
+R44
+R45
+l0
+L6
+V9DeREW0YV1o08KGPelGka2
+!s100 []Wj?8Z^[4POhm>BzPl8Y3
+R8
+32
+Z72 !s110 1697210373
+!i10b 1
+Z73 !s108 1697210373.000000
+R48
+R49
+!i113 1
+R13
+R14
+Atest
+Z74 DEx4 work 17 valor_absoluto_c2 0 22 Bf;iKo4h6m1Ob0[Xa@hNc1
+R1
+R2
+R3
+R4
+DEx4 work 20 tb_valor_absoluto_c2 0 22 9DeREW0YV1o08KGPelGka2
+l13
+L10
+V53:T?iJfzPF;z]3HLRh5i3
+!s100 ]12`YZQoG]kWE:fFYz0lL2
+R8
+32
+R72
+!i10b 1
+R73
+R48
+R49
+!i113 1
+R13
+R14
+Evalor_absoluto_c2
+Z75 w1697210308
+R1
+R2
+R3
+R4
+R5
+Z76 8C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A07/hdl/valor_absoluto_c2.vhd
+Z77 FC:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A07/hdl/valor_absoluto_c2.vhd
+l0
+L6
+VBf;iKo4h6m1Ob0[Xa@hNc1
+!s100 3mZBZR`:[3=V3iOZM`?fP0
+R8
+32
+Z78 !s110 1697210369
+!i10b 1
+Z79 !s108 1697210369.000000
+Z80 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A07/hdl/valor_absoluto_c2.vhd|
+Z81 !s107 C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A07/hdl/valor_absoluto_c2.vhd|
+!i113 1
+R13
+R14
+Artl
+R1
+R2
+R3
+R4
+R74
+l14
+L13
+V?^akoz_IEO6BZ<VSnm@`B0
+!s100 Sbc]^b<?FR7he2gHb4SdX3
+R8
+32
+R78
+!i10b 1
+R79
+R80
+R81
+!i113 1
+R13
+R14

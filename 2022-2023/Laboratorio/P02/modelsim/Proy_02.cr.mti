@@ -1,0 +1,18 @@
+C:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/P02/modelsim/tb_decodBCD7seg.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/P02/modelsim/tb_decodBCD7seg.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity tb_decodBCD7seg
+-- Compiling architecture test of tb_decodBCD7seg
+-- Loading entity decodBCD7seg
+
+} {} {}} C:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/P02/hdl/decodBCD7seg.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/P02/hdl/decodBCD7seg.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity decodBCD7seg
+-- Compiling architecture rtl of decodBCD7seg
+
+} {} {}}

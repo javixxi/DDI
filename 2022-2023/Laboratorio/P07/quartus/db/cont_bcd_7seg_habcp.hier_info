@@ -1,0 +1,23 @@
+|cont_bcd_7seg_habcp
+clk => CUENTA[0].CLK
+clk => CUENTA[1].CLK
+clk => CUENTA[2].CLK
+clk => CUENTA[3].CLK
+clk => pulso_reg2.CLK
+clk => pulso_reg1.CLK
+an_rst => CUENTA[0].ACLR
+an_rst => CUENTA[1].ACLR
+an_rst => CUENTA[2].ACLR
+an_rst => CUENTA[3].ACLR
+an_rst => pulso_reg2.PRESET
+an_rst => pulso_reg1.PRESET
+pulso_hab => pulso_reg1.DATAIN
+seg7disp[0] << Mux6.DB_MAX_OUTPUT_PORT_TYPE
+seg7disp[1] << Mux5.DB_MAX_OUTPUT_PORT_TYPE
+seg7disp[2] << Mux4.DB_MAX_OUTPUT_PORT_TYPE
+seg7disp[3] << Mux3.DB_MAX_OUTPUT_PORT_TYPE
+seg7disp[4] << Mux2.DB_MAX_OUTPUT_PORT_TYPE
+seg7disp[5] << Mux1.DB_MAX_OUTPUT_PORT_TYPE
+seg7disp[6] << Mux0.DB_MAX_OUTPUT_PORT_TYPE
+
+

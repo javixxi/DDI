@@ -1,0 +1,4 @@
+diferencias entre mi codigo y el de la actividad
+sentencia nRst <= '1'; de la linea 43
+
+¿Qué hace el "set"?

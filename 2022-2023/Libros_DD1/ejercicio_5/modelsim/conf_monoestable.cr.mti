@@ -1,0 +1,22 @@
+C:/Users/Usuario/Documents/2022-2023/DD1/t7/ejercicio_5/hdl/conf_monoestable.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Usuario/Documents/2022-2023/DD1/t7/ejercicio_5/hdl/conf_monoestable.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity conf_monoestable
+-- Compiling architecture rtl of conf_monoestable
+
+} {} {}} C:/Users/Usuario/Documents/2022-2023/DD1/t7/ejercicio_5/test/conf_monoestable_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Usuario/Documents/2022-2023/DD1/t7/ejercicio_5/test/conf_monoestable_tb.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity conf_monoestable_tb
+-- Compiling architecture test of conf_monoestable_tb
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading entity conf_monoestable
+
+} {} {}}

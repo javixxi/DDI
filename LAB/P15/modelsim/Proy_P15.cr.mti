@@ -1,0 +1,53 @@
+C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P15/hdl/divisores.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P15/hdl/divisores.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity divisores
+-- Compiling architecture rtl of divisores
+
+} {} {}} C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P15/hdl/divisor_2.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P15/hdl/divisor_2.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity divisor_2
+-- Compiling architecture rtl of divisor_2
+
+} {} {}} C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P15/modelsim/test_divisor_2.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P15/modelsim/test_divisor_2.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity test_divisor_2
+-- Compiling architecture test of test_divisor_2
+-- Loading entity divisor_2
+
+} {} {}} C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P15/hdl/divisor_3.vhd {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\Javier\Documents\Universidad\1_semestre\DD1\LAB\P15\hdl\divisor_3.vhd}
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity divisor_3
+-- Compiling architecture rtl of divisor_3
+
+} {} {}} C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P15/modelsim/test_divisor_3.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P15/modelsim/test_divisor_3.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity test_divisor_3
+-- Compiling architecture test of test_divisor_3
+-- Loading entity divisor_3
+
+} {} {}}

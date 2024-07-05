@@ -1,0 +1,12 @@
+PowerPlay Power Analyzer Status : Successful - Tue Oct 10 20:33:29 2023
+Quartus Prime Version : 16.0.0 Build 211 04/27/2016 SJ Lite Edition
+Revision Name : cont_bcd_7seg_habcp
+Top-level Entity Name : cont_bcd_7seg_habcp
+Family : MAX 10
+Device : 10M08SAU169C8G
+Power Models : Final
+Total Thermal Power Dissipation : 129.53 mW
+Core Dynamic Thermal Power Dissipation : 0.00 mW
+Core Static Thermal Power Dissipation : 110.67 mW
+I/O Thermal Power Dissipation : 18.86 mW
+Power Estimation Confidence : Low: user provided insufficient toggle rate data

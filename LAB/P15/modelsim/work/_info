@@ -1,0 +1,227 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P14/modelsim
+Edivisor_2
+Z0 w1701716656
+Z1 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z5 dC:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P15/modelsim
+Z6 8C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P15/hdl/divisor_2.vhd
+Z7 FC:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P15/hdl/divisor_2.vhd
+l0
+L5
+VhQGRD]Ckb72cEoCO<5f1P2
+!s100 I?hk7oY^^Td=:i]8eAl7^0
+Z8 OV;C;10.4d;61
+32
+Z9 !s110 1701720303
+!i10b 1
+Z10 !s108 1701720303.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P15/hdl/divisor_2.vhd|
+Z12 !s107 C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P15/hdl/divisor_2.vhd|
+!i113 1
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1
+Artl
+R1
+R2
+R3
+R4
+Z15 DEx4 work 9 divisor_2 0 22 hQGRD]Ckb72cEoCO<5f1P2
+l19
+L12
+Vn[lRFmhM6l^NeGfo]lmG]1
+!s100 E:fBV7m`^X268b=hBNjzl0
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Edivisor_3
+Z16 w1701801097
+R1
+R2
+R3
+R4
+R5
+Z17 8C:\Users\Javier\Documents\Universidad\1_semestre\DD1\LAB\P15\hdl\divisor_3.vhd
+Z18 FC:\Users\Javier\Documents\Universidad\1_semestre\DD1\LAB\P15\hdl\divisor_3.vhd
+l0
+L5
+VZdK6G[h=dEVdAiIH<7]e82
+!s100 4kJle4SoILRzdg@8QPQ2A0
+R8
+32
+Z19 !s110 1701801101
+!i10b 1
+Z20 !s108 1701801101.000000
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\Javier\Documents\Universidad\1_semestre\DD1\LAB\P15\hdl\divisor_3.vhd|
+Z22 !s107 C:\Users\Javier\Documents\Universidad\1_semestre\DD1\LAB\P15\hdl\divisor_3.vhd|
+!i113 1
+R13
+R14
+Artl
+R1
+R2
+R3
+R4
+Z23 DEx4 work 9 divisor_3 0 22 ZdK6G[h=dEVdAiIH<7]e82
+l17
+L13
+VN[eUM133YS`ISH^;<NXK:0
+!s100 a7EneD8LA]1;am;F6coW^2
+R8
+32
+R19
+!i10b 1
+R20
+R21
+R22
+!i113 1
+R13
+R14
+Edivisores
+Z24 w1608204702
+R1
+R2
+R3
+R4
+R5
+Z25 8C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P15/hdl/divisores.vhd
+Z26 FC:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P15/hdl/divisores.vhd
+l0
+L5
+V[]0hFaUi_>NbMkH>=hLD91
+!s100 FG65PGc<OJK9db2GXlbSR0
+R8
+32
+Z27 !s110 1701801311
+!i10b 1
+Z28 !s108 1701801311.000000
+Z29 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P15/hdl/divisores.vhd|
+Z30 !s107 C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P15/hdl/divisores.vhd|
+!i113 1
+R13
+R14
+Artl
+R1
+R2
+R3
+R4
+DEx4 work 9 divisores 0 22 []0hFaUi_>NbMkH>=hLD91
+l20
+L12
+VnbA0:`5E_HXzaHI^ige_J2
+!s100 _:2:oZShloRP:kgb:8>F03
+R8
+32
+R27
+!i10b 1
+R28
+R29
+R30
+!i113 1
+R13
+R14
+Etest_divisor_2
+Z31 w1701720813
+R1
+R2
+R3
+R4
+R5
+Z32 8C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P15/modelsim/test_divisor_2.vhd
+Z33 FC:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P15/modelsim/test_divisor_2.vhd
+l0
+L5
+V:@DXBoc[BaBRbE6]G>^9B1
+!s100 @nkkJB^5obLeOz<I<@cA=1
+R8
+32
+Z34 !s110 1701720815
+!i10b 1
+Z35 !s108 1701720815.000000
+Z36 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P15/modelsim/test_divisor_2.vhd|
+Z37 !s107 C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P15/modelsim/test_divisor_2.vhd|
+!i113 1
+R13
+R14
+Atest
+R15
+R1
+R2
+R3
+R4
+DEx4 work 14 test_divisor_2 0 22 :@DXBoc[BaBRbE6]G>^9B1
+l20
+L8
+Vo:kN_l;C5ZMi]>W5IQ6I_3
+!s100 P[kml=HKAek<oILL^<dmO2
+R8
+32
+R34
+!i10b 1
+R35
+R36
+R37
+!i113 1
+R13
+R14
+Etest_divisor_3
+Z38 w1701722494
+R1
+R2
+R3
+R4
+R5
+Z39 8C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P15/modelsim/test_divisor_3.vhd
+Z40 FC:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P15/modelsim/test_divisor_3.vhd
+l0
+L5
+V6fOJ4@:37Y5S0nWK8P2bg2
+!s100 b7o[X[kTVYZAdV3<CINEL0
+R8
+32
+Z41 !s110 1701797931
+!i10b 1
+Z42 !s108 1701797931.000000
+Z43 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P15/modelsim/test_divisor_3.vhd|
+Z44 !s107 C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P15/modelsim/test_divisor_3.vhd|
+!i113 1
+R13
+R14
+Atest
+R23
+R1
+R2
+R3
+R4
+DEx4 work 14 test_divisor_3 0 22 6fOJ4@:37Y5S0nWK8P2bg2
+l20
+L8
+Ve?O45nC6>TcAF6b7Y^O903
+!s100 g9WDlQJEH^@]mDae:7X402
+R8
+32
+R41
+!i10b 1
+R42
+R43
+R44
+!i113 1
+R13
+R14

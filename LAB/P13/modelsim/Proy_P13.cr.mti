@@ -1,0 +1,45 @@
+C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P13/modelsim/banco_16reg_32bits_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P13/modelsim/banco_16reg_32bits_tb.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity banco_16reg_32bits_tb
+-- Compiling architecture test of banco_16reg_32bits_tb
+-- Loading entity banco_16reg_32bits
+
+} {} {}} C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P13/hdl/banco_16reg_32bits.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P13/hdl/banco_16reg_32bits.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity banco_16reg_32bits
+-- Compiling architecture rtl of banco_16reg_32bits
+
+} {} {}} C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P13/hdl/deco_2a4.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P13/hdl/deco_2a4.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity deco_2a4
+-- Compiling architecture rtl of deco_2a4
+
+} {} {}} C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P13/hdl/mux_4.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P13/hdl/mux_4.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux_4
+-- Compiling architecture rtl of mux_4
+
+} {} {}} C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P13/hdl/banco_64reg_32bits_estruct.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P13/hdl/banco_64reg_32bits_estruct.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity banco_64reg_32bits_estruct
+-- Compiling architecture estructural of banco_64reg_32bits_estruct
+-- Loading entity deco_2a4
+-- Loading entity banco_16reg_32bits
+-- Loading entity mux_4
+
+} {} {}}

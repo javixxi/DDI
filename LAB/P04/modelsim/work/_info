@@ -1,0 +1,182 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A04/modelsim
+Econformador
+Z0 w1695760355
+Z1 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z5 dC:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P04/modelsim
+Z6 8C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P04/hdl/conformador.vhd
+Z7 FC:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P04/hdl/conformador.vhd
+l0
+L6
+VcO]mJOcfYOmRE7UHO=J5b1
+!s100 Idl:EH21L[]mo<Pzg0Ha30
+Z8 OV;C;10.4d;61
+32
+Z9 !s110 1695760362
+!i10b 1
+Z10 !s108 1695760362.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P04/hdl/conformador.vhd|
+Z12 !s107 C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P04/hdl/conformador.vhd|
+!i113 1
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1
+Artl
+R1
+R2
+R3
+R4
+Z15 DEx4 work 11 conformador 0 22 cO]mJOcfYOmRE7UHO=J5b1
+l17
+L15
+V=@4cTDMEz0=KYPo8jM8?k2
+!s100 _KCOZUo^7Ej9^a<dl<]?l2
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Ediv_freq_4
+Z16 w1695748809
+R1
+R2
+R3
+R4
+R5
+Z17 8C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P04/hdl/div_freq_4.vhd
+Z18 FC:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P04/hdl/div_freq_4.vhd
+l0
+L6
+VOmN8SmV9RjHFi[QU^YOEn2
+!s100 4_@80[1<0XTF=zI9zfc`U0
+R8
+32
+Z19 !s110 1695748830
+!i10b 1
+Z20 !s108 1695748830.000000
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P04/hdl/div_freq_4.vhd|
+Z22 !s107 C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P04/hdl/div_freq_4.vhd|
+!i113 1
+R13
+R14
+Artl
+R1
+R2
+R3
+R4
+Z23 DEx4 work 10 div_freq_4 0 22 OmN8SmV9RjHFi[QU^YOEn2
+l17
+L15
+Vmj>`U5_cRXAPgDh0Q<j><0
+!s100 ^^zHD<XkVkV6`a8OIL0^W2
+R8
+32
+R19
+!i10b 1
+R20
+R21
+R22
+!i113 1
+R13
+R14
+Etb_conformador
+Z24 w1695760163
+R3
+R4
+R5
+Z25 8C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P04/modelsim/tb_conformador.vhd
+Z26 FC:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P04/modelsim/tb_conformador.vhd
+l0
+L5
+VnfGC8z=BB2X7cK^Lc6N7:0
+!s100 6Ll7V`RLnA@?>CB3<X0403
+R8
+32
+Z27 !s110 1695760213
+!i10b 1
+Z28 !s108 1695760213.000000
+Z29 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P04/modelsim/tb_conformador.vhd|
+Z30 !s107 C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P04/modelsim/tb_conformador.vhd|
+!i113 1
+R13
+R14
+Atest
+R1
+R2
+R15
+R3
+R4
+DEx4 work 14 tb_conformador 0 22 nfGC8z=BB2X7cK^Lc6N7:0
+l15
+L9
+VFUS>S1z6hm3iz3METgMOR2
+!s100 275QjhYgkQ^0ZIA=IUXY^3
+R8
+32
+R27
+!i10b 1
+R28
+R29
+R30
+!i113 1
+R13
+R14
+Etb_div_freq_4
+Z31 w1695749798
+R1
+R2
+R3
+R4
+R5
+Z32 8C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P04/modelsim/tb_div_freq_4.vhd
+Z33 FC:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P04/modelsim/tb_div_freq_4.vhd
+l0
+L6
+VfZ=bRPTPLZEmT?>C``gX]1
+!s100 ke^^7BUV]eizMXm;Y3@g63
+R8
+32
+Z34 !s110 1695749803
+!i10b 1
+Z35 !s108 1695749803.000000
+Z36 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P04/modelsim/tb_div_freq_4.vhd|
+Z37 !s107 C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P04/modelsim/tb_div_freq_4.vhd|
+!i113 1
+R13
+R14
+Atest
+R23
+R1
+R2
+R3
+R4
+DEx4 work 13 tb_div_freq_4 0 22 fZ=bRPTPLZEmT?>C``gX]1
+l15
+L10
+VS3i?]=YT<;@3a7jZg>G>82
+!s100 JBQ3NHZ>SAfhVKij6RDA`2
+R8
+32
+R34
+!i10b 1
+R35
+R36
+R37
+!i113 1
+R13
+R14

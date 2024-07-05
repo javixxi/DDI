@@ -1,0 +1,184 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P16/modelsim
+Econtador_programable
+Z0 w1703262107
+Z1 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z5 dC:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A20/modelsim
+Z6 8C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A20/hdl/contador_programable.vhd
+Z7 FC:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A20/hdl/contador_programable.vhd
+l0
+L5
+V1`UUJ2O8ecN;?9GIYeW@H0
+!s100 D_2VIB2WmhWo@JRlVIYH12
+Z8 OV;C;10.4d;61
+32
+Z9 !s110 1703262111
+!i10b 1
+Z10 !s108 1703262111.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A20/hdl/contador_programable.vhd|
+Z12 !s107 C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A20/hdl/contador_programable.vhd|
+!i113 1
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1
+Artl
+R1
+R2
+R3
+R4
+Z15 DEx4 work 20 contador_programable 0 22 1`UUJ2O8ecN;?9GIYeW@H0
+l15
+L13
+VRYKW[:8K1JkQoNR0]ESK`3
+!s100 X7a<9KB;G089:7m`J8`W_0
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Econtador_programable_tb
+Z16 w1703262440
+R1
+R2
+R3
+R4
+R5
+Z17 8C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A20/modelsim/contador_programable_tb.vhd
+Z18 FC:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A20/modelsim/contador_programable_tb.vhd
+l0
+L5
+V`BK<E4QQ[eMd0AVFD6][j3
+!s100 5DCEU=48GIWdF:jJzFF200
+R8
+32
+Z19 !s110 1703262445
+!i10b 1
+Z20 !s108 1703262445.000000
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A20/modelsim/contador_programable_tb.vhd|
+Z22 !s107 C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A20/modelsim/contador_programable_tb.vhd|
+!i113 1
+R13
+R14
+Atest
+R15
+R1
+R2
+R3
+R4
+DEx4 work 23 contador_programable_tb 0 22 `BK<E4QQ[eMd0AVFD6][j3
+l15
+L8
+VAg;`gnGO:?gSn7g7O=?dK2
+!s100 zHEUeLJRVY26lhFM<_EfP3
+R8
+32
+R19
+!i10b 1
+R20
+R21
+R22
+!i113 1
+R13
+R14
+Econtadorbcd_2_digitos
+Z23 w1703259943
+R1
+R2
+R3
+R4
+R5
+Z24 8C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A20/hdl/contadorBCD_2_digitos.vhd
+Z25 FC:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A20/hdl/contadorBCD_2_digitos.vhd
+l0
+L5
+V^aRT=NSo0k<JE?YZo8E_k0
+!s100 44CmhTS`<;lkdKd92ELW_3
+R8
+32
+Z26 !s110 1703262016
+!i10b 1
+Z27 !s108 1703262016.000000
+Z28 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A20/hdl/contadorBCD_2_digitos.vhd|
+Z29 !s107 C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A20/hdl/contadorBCD_2_digitos.vhd|
+!i113 1
+R13
+R14
+Artl
+R1
+R2
+R3
+R4
+Z30 DEx4 work 21 contadorbcd_2_digitos 0 22 ^aRT=NSo0k<JE?YZo8E_k0
+l17
+L14
+VR82T??Z2V2e6Be3l5i9B92
+!s100 a^=4PD3Yc;DRb4eik2>mU0
+R8
+32
+R26
+!i10b 1
+R27
+R28
+R29
+!i113 1
+R13
+R14
+Econtadorbcd_2_digitos_tb
+Z31 w1703259688
+R1
+R2
+R3
+R4
+R5
+Z32 8C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A20/modelsim/contadorBCD_2_digitos_tb.vhd
+Z33 FC:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A20/modelsim/contadorBCD_2_digitos_tb.vhd
+l0
+L5
+VYL[YBZ>Bj93SMQI=SGkb@3
+!s100 274LoO[m=kFSVQNe^lC432
+R8
+32
+Z34 !s110 1703262017
+!i10b 1
+R27
+Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A20/modelsim/contadorBCD_2_digitos_tb.vhd|
+Z36 !s107 C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A20/modelsim/contadorBCD_2_digitos_tb.vhd|
+!i113 1
+R13
+R14
+Atest
+R30
+R1
+R2
+R3
+R4
+DEx4 work 24 contadorbcd_2_digitos_tb 0 22 YL[YBZ>Bj93SMQI=SGkb@3
+l16
+L8
+VQ;K^Nkce0jd@Ha_@]@Q>J3
+!s100 =Fc7lmk[8YPid2^izM2FW2
+R8
+32
+R34
+!i10b 1
+R27
+R35
+R36
+!i113 1
+R13
+R14

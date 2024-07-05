@@ -1,0 +1,209 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/A09/modelsim
+Ebanco_16reg_32bits
+Z0 w1700592733
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dC:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P13/modelsim
+Z4 8C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P13/hdl/banco_16reg_32bits.vhd
+Z5 FC:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P13/hdl/banco_16reg_32bits.vhd
+l0
+L4
+V>T0UV]dmbmi[DKTcAA^1L1
+!s100 =]kDJ^?oVI@FE^@]Ojg091
+Z6 OV;C;10.4d;61
+32
+Z7 !s110 1700594114
+!i10b 1
+Z8 !s108 1700594114.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P13/hdl/banco_16reg_32bits.vhd|
+Z10 !s107 C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P13/hdl/banco_16reg_32bits.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1
+Artl
+R1
+R2
+Z13 DEx4 work 18 banco_16reg_32bits 0 22 >T0UV]dmbmi[DKTcAA^1L1
+l32
+L14
+VK7T@ZX0Jnh2mi`a1z5hPc2
+!s100 N@N4`@?J7[^na3lVe5PEM0
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Ebanco_16reg_32bits_tb
+Z14 w1700594071
+R1
+R2
+R3
+Z15 8C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P13/modelsim/banco_16reg_32bits_tb.vhd
+Z16 FC:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P13/modelsim/banco_16reg_32bits_tb.vhd
+l0
+L4
+V:zIMCHWfn2Dh3MO57ImMS2
+!s100 bYK9T:UB[U6hRQD^eY;kF2
+R6
+32
+R7
+!i10b 1
+R8
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P13/modelsim/banco_16reg_32bits_tb.vhd|
+Z18 !s107 C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P13/modelsim/banco_16reg_32bits_tb.vhd|
+!i113 1
+R11
+R12
+Atest
+R13
+R1
+R2
+DEx4 work 21 banco_16reg_32bits_tb 0 22 :zIMCHWfn2Dh3MO57ImMS2
+l16
+L7
+VVQL2OMFYgF>dDRQ;R`Y?^2
+!s100 ZR99YOe^8OZ^VURiUO?Nk2
+R6
+32
+R7
+!i10b 1
+R8
+R17
+R18
+!i113 1
+R11
+R12
+Ebanco_64reg_32bits_estruct
+Z19 w1701105016
+R1
+R2
+R3
+Z20 8C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P13/hdl/banco_64reg_32bits_estruct.vhd
+Z21 FC:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P13/hdl/banco_64reg_32bits_estruct.vhd
+l0
+L4
+V]5cJW^0=`=C=_@2oEDhJK3
+!s100 :3gM<7@8Aij4P<OR>J6eM2
+R6
+32
+Z22 !s110 1701105021
+!i10b 1
+Z23 !s108 1701105021.000000
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P13/hdl/banco_64reg_32bits_estruct.vhd|
+Z25 !s107 C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P13/hdl/banco_64reg_32bits_estruct.vhd|
+!i113 1
+R11
+R12
+Aestructural
+Z26 DEx4 work 5 mux_4 0 22 n0l`AK]]:SehaBPcLKk=51
+R13
+Z27 DEx4 work 8 deco_2a4 0 22 N4]6d1eH`H0K:]@?ZE@gb3
+R1
+R2
+DEx4 work 26 banco_64reg_32bits_estruct 0 22 ]5cJW^0=`=C=_@2oEDhJK3
+l21
+L15
+VB]NX_7YLfEBd33@URM;z80
+!s100 a1Ch2?VDiY9hWeI[0@mM43
+R6
+32
+R22
+!i10b 1
+R23
+R24
+R25
+!i113 1
+R11
+R12
+Edeco_2a4
+Z28 w1700591349
+R1
+R2
+R3
+Z29 8C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P13/hdl/deco_2a4.vhd
+Z30 FC:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P13/hdl/deco_2a4.vhd
+l0
+L4
+VN4]6d1eH`H0K:]@?ZE@gb3
+!s100 gYU^cQVJgAdGfJDa_WV8R1
+R6
+32
+R7
+!i10b 1
+R8
+Z31 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P13/hdl/deco_2a4.vhd|
+Z32 !s107 C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P13/hdl/deco_2a4.vhd|
+!i113 1
+R11
+R12
+Artl
+R1
+R2
+R27
+l12
+L11
+V9XAXomhWen5UiVoQ8K_:c3
+!s100 nE<1VHSae`3I2f;XPZYT03
+R6
+32
+R7
+!i10b 1
+R8
+R31
+R32
+!i113 1
+R11
+R12
+Emux_4
+Z33 w1700591273
+R1
+R2
+R3
+Z34 8C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P13/hdl/mux_4.vhd
+Z35 FC:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P13/hdl/mux_4.vhd
+l0
+L4
+Vn0l`AK]]:SehaBPcLKk=51
+!s100 U`ATHaoJRdl0:gSiBZE8I2
+R6
+32
+R7
+!i10b 1
+R8
+Z36 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P13/hdl/mux_4.vhd|
+Z37 !s107 C:/Users/Javier/Documents/Universidad/1_semestre/DD1/LAB/P13/hdl/mux_4.vhd|
+!i113 1
+R11
+R12
+Artl
+R1
+R2
+R26
+l15
+L14
+VAdJA3Z6P`<7jJ:[zBO4QG2
+!s100 <HcV:<abnz?B8hHC2fhmC3
+R6
+32
+R7
+!i10b 1
+R8
+R36
+R37
+!i113 1
+R11
+R12

@@ -1,0 +1,89 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/A02/modelsim
+Ereg16b_ena_rst
+Z0 w1663847224
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dC:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/P03/modelsim
+Z4 8C:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/P03/hdl/reg16b_ena_rst.vhd
+Z5 FC:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/P03/hdl/reg16b_ena_rst.vhd
+l0
+L7
+V_gYnKe?Q[7RdUbe0Wi=`R0
+!s100 5NH_93U@^<ACa[^`inTGM2
+Z6 OV;C;10.4d;61
+32
+Z7 !s110 1663847235
+!i10b 1
+Z8 !s108 1663847235.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/P03/hdl/reg16b_ena_rst.vhd|
+Z10 !s107 C:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/P03/hdl/reg16b_ena_rst.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1
+Artl
+R1
+R2
+Z13 DEx4 work 14 reg16b_ena_rst 0 22 _gYnKe?Q[7RdUbe0Wi=`R0
+l20
+L19
+V32PdfB2zf8LfLKjjVHTSA1
+!s100 17aX==oNT^P=eZ704k7=i0
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Ereg16b_ena_rst_tb
+Z14 w1663856273
+R1
+R2
+R3
+Z15 8C:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/P03/modelsim/reg16b_ena_rst_TB.vhd
+Z16 FC:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/P03/modelsim/reg16b_ena_rst_TB.vhd
+l0
+L10
+VEIZXQ4]:SPf`4AjPK5o@J3
+!s100 _[_5jJhC[aS8lSX<T8k;R3
+R6
+32
+Z17 !s110 1663856280
+!i10b 1
+Z18 !s108 1663856280.000000
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/P03/modelsim/reg16b_ena_rst_TB.vhd|
+Z20 !s107 C:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/P03/modelsim/reg16b_ena_rst_TB.vhd|
+!i113 1
+R11
+R12
+Atest
+R13
+R1
+R2
+DEx4 work 17 reg16b_ena_rst_tb 0 22 EIZXQ4]:SPf`4AjPK5o@J3
+l23
+L13
+VA9l2?bN;8DO@[emaT9bBn1
+!s100 i0?;oHB8M7n7b@OKi45WW0
+R6
+32
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 1
+R11
+R12

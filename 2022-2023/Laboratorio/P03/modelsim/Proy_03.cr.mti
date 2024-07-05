@@ -1,0 +1,18 @@
+C:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/P03/modelsim/reg16b_ena_rst_TB.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/P03/modelsim/reg16b_ena_rst_TB.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity reg16b_ena_rst_TB
+-- Compiling architecture Test of reg16b_ena_rst_TB
+-- Loading entity reg16b_ena_rst
+
+} {} {}} C:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/P03/hdl/reg16b_ena_rst.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Javier/Documents/Universidad/1_semestre/DD1/Laboratorio/P03/hdl/reg16b_ena_rst.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity reg16b_ena_rst
+-- Compiling architecture rtl of reg16b_ena_rst
+
+} {} {}}
